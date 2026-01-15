@@ -1,0 +1,7 @@
+{
+  "name": "FinVue & AI Studio",
+  "description": "A comprehensive personal finance tracker with integrated AI-powered image editing for receipts and financial documents.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
